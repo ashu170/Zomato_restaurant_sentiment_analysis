@@ -120,6 +120,11 @@ zomato-restaurant-sentiment-analysis/
 ├── requirements.txt
 └── README.md
 
+
+
+You can also make the GitHub profile more professional by adding:
+
+```markdown
 ## Author
 
 **Ashitosh Wankhede**  
