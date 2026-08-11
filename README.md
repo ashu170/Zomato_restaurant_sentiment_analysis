@@ -119,3 +119,12 @@ zomato-restaurant-sentiment-analysis/
 ├── models/
 ├── requirements.txt
 └── README.md
+
+## Author
+
+**Ashitosh Wankhede**  
+B.Tech - Artificial Intelligence and Data Science  
+Vishwakarma Institute of Technology, Pune
+
+- LinkedIn: https://www.linkedin.com/in/ashitoshwankhede
+- GitHub: https://github.com/ashu170
